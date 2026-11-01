@@ -298,4 +298,3 @@ az vm deallocate -g rg-lab02-aahmed -n vm-web-01
 
 ---
 
-*Part of my Azure cloud engineering lab series.*
