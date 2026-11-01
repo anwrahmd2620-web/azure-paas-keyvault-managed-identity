@@ -2,7 +2,7 @@
 
 Migrating an application's database from a self-managed virtual machine (IaaS) to **Azure SQL Database** (PaaS), and securing its credentials with **Azure Key Vault** and a **managed identity**, so no password is stored in code or on the server.
 
-📹 **Video walkthrough:** [Watch on Loom](https://www.loom.com/share/c51cd8dc380b47c4a9cf2ddb068d4e6c)
+📹 **Video walkthrough:** https://www.loom.com/share/c51cd8dc380b47c4a9cf2ddb068d4e6c 
 
 ---
 
